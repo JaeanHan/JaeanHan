@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaean
 - 👀 I’m interested in back end development.
-- 🌱 I’m currently learning MySQL, Javscript, and Matplotlib
+- 🌱 I’m currently learning Java, Javscript, , MariaDB and Matplotlib
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
