@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaeanHan
-- 👀 I’m interested in back end development. Much later, full stack developement
+- 👀 I’m interested in back end development. Much later, or years later, full stack developement
 - 🌱 I’m currently learning MySQL, Javscript, and Matplotlib
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
