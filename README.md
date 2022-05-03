@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jaean1999@naver.com
-- 🦖 attending Pusan National University
+- 🦅 attending Pusan National University
 - 📖 studying Computer Science and Engineering
 
 
