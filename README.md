@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaean
 - 👀 I’m interested in back end development.
-- 🌱 I’m currently learning Java, Javscript, , data base and big data
+- 🌱 I’m currently learning Java, Javscript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
