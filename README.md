@@ -5,7 +5,7 @@
 - 📫 How to reach me ... jaean1999@naver.com
 
 - 😊 attending Pusan National University
-- 😍 studying Computer Engineering
+- 😍 studying Computer Science and Engineering
 
 
 [![Solved.ac
