@@ -6,11 +6,11 @@
 - 🦅 attending Pusan National University
 - 📖 studying Computer Science and Engineering
 
-🙌 Skills
+<p>🙌 Skills</p>
+<div style="display:flex;">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-
+</div>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
