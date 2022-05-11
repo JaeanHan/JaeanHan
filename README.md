@@ -1,10 +1,20 @@
-<p>👋 Hi, I’m Jaean<p>
-<p>👀 I’m interested in back end development.</p>
-<p>🌱 I’m currently learning <span id="awsome1">Springboot</span> and <span>Javascript</span></p>
-<p>💞️ I’m looking to collaborate on ...</p>
-<p>📫 How to reach me ... jaean1999@naver.com</p>
-<p>🦅 attending Pusan National University</P>
-<p>📖 studying Computer Science and Engineering<p>
+
+
+<section style="display:flex;">
+  <article>
+    [![Solved.ac
+    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
+  </article>
+  <article>
+    <p>👋 Hi, I’m Jaean<p>
+    <p>👀 I’m interested in back end development.</p>
+    <p>🌱 I’m currently learning <span id="awsome1">Springboot</span> and <span>Javascript</span></p>
+    <p>💞️ I’m looking to collaborate on ...</p>
+    <p>📫 How to reach me ... jaean1999@naver.com</p>
+    <p>🦅 attending Pusan National University</P>
+    <p>📖 studying Computer Science and Engineering<p>
+  </article>
+</section>
 <br>
 <p>🙌 Skills</p>
 <div style="display:flex;">
@@ -13,8 +23,6 @@
 </div>
 <br><br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
 
 <!---
 JaeanHan/JaeanHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
