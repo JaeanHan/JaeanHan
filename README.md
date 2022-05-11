@@ -1,7 +1,7 @@
 
 
-<section style="display:flex;">
-  <article>
+<section style="display:flex; width:100%;">
+  <article style="width:50%;">
       <p>👋 Hi, I’m Jaean<p>
       <p>👀 I’m interested in back end development.</p>
       <p>🌱 I’m currently learning Springboot and Javascript</p>
@@ -10,7 +10,7 @@
       <p>🦅 attending Pusan National University</P>
       <p>📖 studying Computer Science and Engineering<p>
    </article>
-   <article>
+   <article style="width:50%;">
     <p>🙌 Skills</p>
     <div style="display:flex;">
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
