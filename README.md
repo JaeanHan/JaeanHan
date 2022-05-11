@@ -10,10 +10,6 @@
     <p>🦅 attending Pusan National University</P>
     <p>📖 studying Computer Science and Engineering<p>
   </article>
-    <article>
-    [![Solved.ac
-    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
-  </article>
 </section>
 <br>
 <p>🙌 Skills</p>
@@ -23,6 +19,8 @@
 </div>
 <br><br>
 
+[![Solved.ac
+    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
 
 <!---
 JaeanHan/JaeanHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
