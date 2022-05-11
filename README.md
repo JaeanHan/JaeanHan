@@ -5,7 +5,7 @@
 <p>📫 How to reach me ... jaean1999@naver.com</p>
 <p>🦅 attending Pusan National University</P>
 <p>📖 studying Computer Science and Engineering<p>
-<br><br>
+<br>
 <p>🙌 Skills</p>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
