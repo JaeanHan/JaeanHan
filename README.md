@@ -11,7 +11,7 @@
       <p>📖 studying Computer Science and Engineering<p>
    </article>
    <article>
-    <p><br>🗿Skills</p>
+    <p><br>🗿 Skills</p>
     <div style="display:flex;">
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -24,7 +24,7 @@
 </section>
 
 <br>
-<p>📎</P>
+<p>📎 Beakjoon</P>
 
 [![Solved.ac
     프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
