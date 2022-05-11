@@ -6,7 +6,7 @@
 - 🦅 attending Pusan National University
 - 📖 studying Computer Science and Engineering
 
-<img src="https://img.shields.io/badge/기술 이름-배경색?style=flat-square&logo=기술 이름&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 
 
 [![Solved.ac
