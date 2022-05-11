@@ -2,10 +2,6 @@
 
 <section style="display:flex;">
   <article>
-    [![Solved.ac
-    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
-  </article>
-  <article>
     <p>👋 Hi, I’m Jaean<p>
     <p>👀 I’m interested in back end development.</p>
     <p>🌱 I’m currently learning <span id="awsome1">Springboot</span> and <span>Javascript</span></p>
@@ -13,6 +9,10 @@
     <p>📫 How to reach me ... jaean1999@naver.com</p>
     <p>🦅 attending Pusan National University</P>
     <p>📖 studying Computer Science and Engineering<p>
+  </article>
+    <article>
+    [![Solved.ac
+    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
   </article>
 </section>
 <br>
