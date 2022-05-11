@@ -11,7 +11,7 @@
       <p>📖 studying Computer Science and Engineering<p>
    </article>
    <article style="width:50%;">
-    <p>🙌 Skills</p>
+    <p><br>🙌 Skills</p>
     <div style="display:flex;">
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
