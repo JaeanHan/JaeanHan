@@ -1,4 +1,3 @@
-b
 
 <section style="display:flex;">
   <article>
