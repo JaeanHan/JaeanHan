@@ -1,4 +1,4 @@
-
+b
 
 <section style="display:flex;">
   <article>
@@ -6,7 +6,13 @@
       <p>👀 I’m interested in back end development.</p>
       <p>🌱 I’m currently learning Spring and Javascript</p>
       <p>💞️ I’m looking to collaborate on ...</p>
-      <p>📫 How to reach me ... jaean1999@naver.com</p>
+      <p>📫 How to reach me ... 
+          <a href="https://www.instagram.com/jaiana8980/">
+              <img 
+                src="http://img.shields.io/badge/-instagram-ff69b4?style=flat&logo=Instagram&link=https://www.instagram.com/jaiana8980/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </a>
+      </p>
 <!--       <p>🦅 attending Pusan National University</P> -->
       <p>📖 studying Computer Science and Engineering<p>
    </article>
