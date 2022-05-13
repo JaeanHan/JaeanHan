@@ -5,7 +5,7 @@
       <p>👀 I’m interested in back end development</p>
       <p>🌱 I’m currently learning Spring, JSP and Javascript</p>
       <p>💞️ I’m looking to collaborate on ...</p>
-      <p>📫 How to reach me ... 
+      <p>📫 How to reach me is here  
           <a href="https://www.instagram.com/jaiana8980/">
               <img 
                 src="http://img.shields.io/badge/-instagram-ff69b4?style=flat&logo=Instagram&link=https://www.instagram.com/jaiana8980/"
