@@ -8,7 +8,7 @@
       <p>📫 How to reach me is here  
           <a href="https://www.instagram.com/jaiana8980/">
               <img 
-                src="http://img.shields.io/badge/-instagram-ff69b4?style=flat&logo=Instagram&link=https://www.instagram.com/jaiana8980/"
+                src="http://img.shields.io/badge/-instagram-ff69b4?style=flat-square&logo=Instagram&link=https://www.instagram.com/jaiana8980/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
           </a>
       </p>
@@ -19,11 +19,13 @@
     <div style="display:flex;">
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+       <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
     </div>
     <div style="display:flex;">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     </div>
    </article>
 </section>
