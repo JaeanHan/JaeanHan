@@ -7,9 +7,9 @@
       <p>💞️ I’m looking to collaborate on ...</p>
       <p>📫 How to reach me is here  
           <a href="https://www.instagram.com/jaiana8980/">
-              <img 
+<!--               <img 
                 src="http://img.shields.io/badge/-instagram-ff69b4?style=flat-square&logo=Instagram&link=https://www.instagram.com/jaiana8980/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
           </a>
       </p>
       <p>📖 studying Computer Science and Engineering<p>
