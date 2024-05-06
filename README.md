@@ -2,8 +2,8 @@
 <section style="display:flex;">
   <article>
       <p>👋 Hi, I’m Jaean<p>
-      <p>👀 I’m interested in back end development</p>
-      <p>🌱 I’m currently learning Spring Boot and React</p>
+      <p>👀 I’m interested in Frontend Development</p>
+      <p>🌱 I’m currently learning React and Next</p>
       <p>💞️ I’m looking to collaborate on ...</p>
       <p>📫 How to reach me is here  
           <a href="https://www.instagram.com/jaiana8980/">
