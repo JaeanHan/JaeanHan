@@ -2,16 +2,11 @@
 <section style="display:flex;">
   <article>
       <p>👋 Hi, I’m Jaean<p>
-      <p>👀 I’m interested in Frontend Development, especially on text art and text animation</p>
+      <p>👀 I’m interested in Frontend Development</p>
+      <p>😀I like text art and text animation</p>
       <p>🌱 I’m currently learning JS, React and Next</p>
       <p>💞️ I’m looking to collaborate on ...</p>
-      <p>📫 How to reach me is here  
-          <a href="https://www.instagram.com/jaiana8980/">
-<!--               <img 
-                src="http://img.shields.io/badge/-instagram-ff69b4?style=flat-square&logo=Instagram&link=https://www.instagram.com/jaiana8980/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
-          </a>
-      </p>
+      <p>📫 How to reach me is ... </p>
       <p>📖 studying Computer Science and Engineering<p>
    </article>
   ╱╱╭╮╱╱╱╱╱╱╭━━━╮╱╱╱╭╮╱╭╮╱╱╱╱╱╱ <br>
