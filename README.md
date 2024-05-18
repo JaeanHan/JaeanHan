@@ -2,7 +2,7 @@
 <section style="display:flex;">
   <article>
       <p>👋 Hi, I’m Jaean<p>
-      <p>👀 I’m interested in Frontend Development, especially on text animation and browser optimization</p>
+      <p>👀 I’m interested in Frontend Development, especially on text art and text animation</p>
       <p>🌱 I’m currently learning JS, React and Next</p>
       <p>💞️ I’m looking to collaborate on ...</p>
       <p>📫 How to reach me is here  
@@ -14,6 +14,12 @@
       </p>
       <p>📖 studying Computer Science and Engineering<p>
    </article>
+  ╱╱╭╮╱╱╱╱╱╱╭━━━╮╱╱╱╭╮╱╭╮╱╱╱╱╱╱ <br>
+╱╱┃┃╱╱╱╱╱╱┃╭━╮┃╱╱╱┃┃╱┃┃╱╱╱╱╱╱ <br>
+╱╱┃┣━━┳━━╮┃┃╱┃┣━╮╱┃╰━╯┣━━┳━╮╱ <br>
+╭╮┃┃╭╮┃┃━┫┃╰━╯┃╭╮╮┃╭━╮┃╭╮┃╭╮╮ <br>
+┃╰╯┃╭╮┃┃━┫┃╭━╮┃┃┃┃┃┃╱┃┃╭╮┃┃┃┃ <br>
+╰━━┻╯╰┻━━╯╰╯╱╰┻╯╰╯╰╯╱╰┻╯╰┻╯╰╯ <br>
    <article>
     <p><br>🗿 Skills</p>
     <div style="display:flex;">
