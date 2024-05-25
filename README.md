@@ -6,13 +6,13 @@
     ╭╮┃┃╭╮┃┃━┫┃╰━╯┃╭╮╮┃╭━╮┃╭╮┃╭╮╮ <br>
     ┃╰╯┃╭╮┃┃━┫┃╭━╮┃┃┃┃┃┃╱┃┃╭╮┃┃┃┃ <br>
     ╰━━┻╯╰┻━━╯╰╯╱╰┻╯╰╯╰╯╱╰┻╯╰┻╯╰╯ <br>
-    <br>
+    <br> 
   <article>
       <p>👋 Hi, I’m JaeAn<p>
       <p>👀 I’m interested in Frontend Development</p>
       <p>😀I like text art and text animation</p>
-      <p>🌱 I’m currently learning JS, React and Next</p>
-      <p>💞️ I’m looking to collaborate on ...</p>
+      <p>🌱 I’m currently learning JS and React</p>
+      <p>💞️ I’m looking to collaborate on ... </p>
       <p>📫 How to reach me is ... </p>
       <p>📖 studying Computer Science and Engineering<p>
    </article>
@@ -31,6 +31,8 @@
     </div>
    </article>
 </section>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=1000&color=000000&random=false&width=435&lines=Text+Animation!)](https://git.io/typing-svg)
 
 <br>
 <p>📎 BOJ</P>
