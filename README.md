@@ -32,8 +32,6 @@
    </article>
 </section>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=1000&color=000000&random=false&width=435&lines=Text+Animation!)](https://git.io/typing-svg)
-
 <br>
 <p>📎 BOJ</P>
 
