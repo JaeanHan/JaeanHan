@@ -12,10 +12,11 @@
       <p>👀 I’m interested in Frontend Development</p>
       <p>😀I like text art and text animation</p>
       <p>🌱 I’m currently learning JS and React</p>
-      <p>💞️ I’m looking to collaborate on ... </p>
-      <p>📫 How to reach me is ... </p>
-      <p>📖 studying Computer Science and Engineering<p>
    </article>
+
+[![Jaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeanHan)](https://github.com/anuraghazra/github-readme-stats)
+
+    
    <article>
     <p><br>🗿 Skills</p>
     <div style="display:flex;">
