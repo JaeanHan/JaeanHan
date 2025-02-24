@@ -11,14 +11,11 @@
       <p>👋 Hi, I’m JaeAn<p>
       <p>👀 I’m interested in Frontend Development</p>
       <p>😀I like text art and text animation</p>
-      <p>🌱 I’m currently learning JS and React</p>
+      <p>🌱 I’m currently learning ...</p>
    </article>
-
-[![Jaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeanHan)](https://github.com/anuraghazra/github-readme-stats)
-
     
    <article>
-    <p><br>🗿 Skills</p>
+    <p>✅ Skills</p>
     <div style="display:flex;">
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -43,20 +40,22 @@
         <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white" />
        </div>
        <div>
-      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
-       </div>
-       <div>
-        <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
+          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
        </div>
        lexical, blockly, plotly
    </article>
 </section>
 
-<br>
-<p>📎 BOJ</P>
+<br/>
+
+[![Jaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeanHan)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 [![Solved.ac
     프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
+
+
 
 
 <!---JaeanHan/JaeanHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
