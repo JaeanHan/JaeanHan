@@ -42,7 +42,6 @@
        <div>
           <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
        </div>
-       lexical, blockly, plotly
    </article>
 </section>
 
