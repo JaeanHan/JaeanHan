@@ -47,6 +47,12 @@
 
 <br/>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{jaeanHan}?pet-id=1" width="600" height="200"/>
+</a>
+
+<br/>
+
 [![Jaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeanHan)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
@@ -54,7 +60,7 @@
 [![Solved.ac
     프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
 
-
+<br/>
 
 
 <!---JaeanHan/JaeanHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
