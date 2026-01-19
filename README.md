@@ -25,9 +25,10 @@
 
 
 
+<!---
 [![Solved.ac
     프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaean1999)](https://solved.ac/jaean1999)
-
+--->
 <br/>
 
 
