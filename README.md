@@ -15,13 +15,14 @@
 
 <br/>
 
+<!---
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{jaeanHan}?pet-id=1" height="240"/>
 </a>
-
+--->
 <br/>
 
-[![Jaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeanHan)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaean's GitHub stats](https://github-stats-extended.vercel.app/api?username=JaeanHan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
